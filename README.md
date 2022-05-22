@@ -8,7 +8,7 @@
 </div>
 
 ### &nbsp; About Me:
-I am a Emebdded Systems Engineer.
+I am a Emebdded Systems Engineer by Day and Gamer by Night.
 
 - 👀 I’m interested in Robotics and Embedded Systems.
 - 🌱 I’m currently learning ROS, Robot Kinematics and Linux Development.
@@ -29,3 +29,6 @@ I am a Emebdded Systems Engineer.
     - Python
     - Java
     - Verilog
+    - Assembly Language
+      - ARM
+      - 8051 
