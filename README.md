@@ -21,6 +21,8 @@ I am a Emebdded Systems Engineer.
   - STM32 HAL
   - ESP IDF & ADF
   - Arduino
+  - FreeRTOS
+  - ARM Mbed
 - Programming
     - C/C++
     - Embedded C
