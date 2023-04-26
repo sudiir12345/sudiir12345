@@ -8,27 +8,27 @@
 </div>
 
 ### &nbsp; About Me:
-I am a Emebdded Systems Engineer by Day and Gamer by Night.
+I am a Robotics Engineer by Day and Gamer by Night.
 
 - 👀 I’m interested in Robotics and Embedded Systems.
 - 🌱 I’m currently learning ROS, Robot Kinematics and Linux Development.
 - 📫 How to reach me : &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sudiir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sudiir12345)
 - Well Experienced in:
   - Embedded Systems Design
-  - General Systems Design and Testing
+  - General Systems Testing
   - PCB Design
   - Power Distribution Designing
-  - STM32 HAL
-  - ESP IDF & ADF
-  - Arduino
-  - FreeRTOS
   - ARM Mbed
-- Programming
+  - Embedded HAL:
+    - STM32 HAL
+    - ESP IDF
+    - Arduino Framework
+  - RTOS:
+    - FreeRTOS
+- Programming Languages
     - C/C++
     - Embedded C
     - Python
-    - Java
-    - Verilog
-    - Assembly Language
+    - Assembly
       - ARM
       - 8051 
